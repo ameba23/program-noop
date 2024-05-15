@@ -1,5 +1,6 @@
 [package]
 name = "program-noop"
+description = "An entropy program which signs any message more than zero bytes long"
 version = "0.1.0"
 authors = ["peg <ameba23@systemli.org>"]
 license = "Unlicense"

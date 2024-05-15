@@ -2,6 +2,8 @@
 
 # program-noop
 
+An entropy program which signs any message more than zero bytes long
+
 ## Running tests
 
 `cargo test`
